@@ -1,4 +1,5 @@
 #include <stdio.h>
+gcc $CFILE
 
 /**
  * main - the main function that starts the code
